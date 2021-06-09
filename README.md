@@ -1,9 +1,9 @@
 # Computer_BasicKnowledge
-操作系统
-计算机网络
-数据结构
-leetcode&&codeforce算法
-设计模式
-网络编程
-mysql数据库
-redius、mangodb
+1. 数据结构
+3. 操作系统
+4. 计算机网络
+5. 设计模式
+6. mysql数据库
+7. redis、mangodb
+8. shell
+9. 网络编程
